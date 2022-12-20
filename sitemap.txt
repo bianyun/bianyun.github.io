@@ -1,0 +1,14 @@
+https://wisecoder.blog/2021/02/07/a-quick-guide-to-spring-annotation-value/
+https://wisecoder.blog/2021/01/28/install-docker-ce-in-debian10-and-centos7-utilizing-aliyun-mirrors/
+https://wisecoder.blog/tags/
+https://wisecoder.blog/categories/
+https://wisecoder.blog/
+https://wisecoder.blog/tags/Debian/
+https://wisecoder.blog/tags/CentOS/
+https://wisecoder.blog/tags/Docker/
+https://wisecoder.blog/tags/Aliyun/
+https://wisecoder.blog/tags/Spring-Basics/
+https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/
+https://wisecoder.blog/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/
+https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/Docker/
+https://wisecoder.blog/categories/%E5%90%8E%E7%AB%AF%E5%BC%80%E5%8F%91/Spring/
